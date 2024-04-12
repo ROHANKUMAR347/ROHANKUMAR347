@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohankumar347" alt="rohankumar347" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS , JAVA-SCRIPT ,JAVA, BOOTSTRAP , React-js**
+- 🌱 I’m currently learning **HTML, CSS , JAVA-SCRIPT ,JAVA, BOOTSTRAP , React-js , Nodejs**
 
-- 💬 Ask me about **HTML , CSS , JAVA-SCRIPT , React js**
+- 💬 Ask me about **HTML , CSS , JAVA-SCRIPT , React js,NodeJs**
 
 - 📫 How to reach me **rohansethi347@gmail.com**
 
