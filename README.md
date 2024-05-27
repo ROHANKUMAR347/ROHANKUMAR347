@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rohan Kumar Sethi</h1>
+<h1 align="center" animation: typing 4s steps(30, end), blink-caret .75s step-end infinite;
+        @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+        }
+        @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: orange }
+        }>Hi 👋, I'm Rohan Kumar Sethi</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankumar347&label=Profile%20views&color=0e75b6&style=flat" alt="rohankumar347" /> </p>
