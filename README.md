@@ -4,7 +4,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ROHANKUMAR347&label=Profile%20views&color=0e75b6&style=flat)  
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rohankumar347)](https://github.com/ROHANKUMAR347)
+![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=ROHANKUMAR347)
 
 - 🌱 I'm currently learning **php**
 
