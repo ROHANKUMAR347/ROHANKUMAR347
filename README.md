@@ -28,6 +28,7 @@
 
 [![Rohan's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rohankumar347&theme=dark&show_icons=true)](https://github.com/rohankumar347)  
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=rohankumar347&layout=compact&theme=dark)  
+[![rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ROHANKUMAR347&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHANKUMAR347&theme=dark)
 
 ---
