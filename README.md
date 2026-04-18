@@ -1,19 +1,19 @@
 <div align="center">
  
-
   <a href="https://rohankumar347.github.io">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Rohan+Kumar+Sethi;🚀+FullStack+Developer;💻+MERN+Stack+%7C+PHP+Learner;🔥+Turning+code+into+reality;✨+Always+learning+%26+coding!" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc?id=ROHANKUMAR347&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ROHANKUMAR347&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/ROHANKUMAR347?label=Followers&style=social" alt="GitHub Followers" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/ROHANKUMAR347?color=0e75b6&label=Stars" alt="GitHub Stars" />
 </div>
 
+---
 
 ## 🎯 **About Me**
 
